@@ -1,3 +1,32 @@
+/* --------------------BODY-------------------- */
+
+body {
+  font-family: 'Muli', sans-serif;
+  letter-spacing: 0.0625em;
+}
+
+a {
+  color: #64a19d;
+}
+
+a:focus,
+a:hover {
+  text-decoration: none;
+  color: #3c6360;
+}
+
+.bg-black {
+  background-color: #161616 !important;
+}
+
+.bg-primary {
+  background-color: #64a19d !important;
+}
+
+.text-primary {
+  color: #64a19d !important;
+}
+
 /* --------------------NAVBAR-------------------- */
 
 #mainNav {
@@ -229,7 +258,7 @@ header .overlay {
   border: 0;
 }
 
-/* --------------------Services-------------------- */
+/* --------------------SERVICES-------------------- */
 
 .first-service {
   padding-left: 25px; 
@@ -262,7 +291,7 @@ header .overlay {
   }
 }
 
-/* --------------------Contact-------------------- */
+/* --------------------CONTACT-------------------- */
 
 
 .signup-section {
@@ -327,4 +356,10 @@ header .overlay {
 
 .contact-section .social a:active {
   color: #ffffff;
+}
+
+/* --------------------FOOTER-------------------- */
+
+footer {
+  padding: 5rem 0;
 }
