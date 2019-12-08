@@ -131,7 +131,6 @@ header .overlay {
 
 }
 
-
 .head-main {
   position: relative;
   width: 100%;
@@ -230,7 +229,7 @@ header .overlay {
   border: 0;
 }
 
-
 .first-service {
   padding-left: 25px; 
+  padding-right: 25px;
 }
