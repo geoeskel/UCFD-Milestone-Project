@@ -1,18 +1,18 @@
 /* --------------------BODY-------------------- */
 
 body {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Varela+Round', sans-serif;
   letter-spacing: 0.0625em;
 }
 
 a {
-  color: #64a19d;
+  color: #4d4d4d;
 }
 
 a:focus,
 a:hover {
   text-decoration: none;
-  color: #3c6360;
+  color: #4d4d4d;
 }
 
 .bg-black {
@@ -20,11 +20,11 @@ a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #4d4d4d !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #4d4d4d !important;
 }
 
 /* --------------------NAVBAR-------------------- */
@@ -37,8 +37,8 @@ a:hover {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #004080;
-  border: 1px solid #004080;
+  color: #404040;
+  border: 1px solid #404040;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -156,7 +156,7 @@ header .overlay {
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
   line-height: 20px;
-  letter-spacing: 0.5rem;
+  letter-spacing: 0.4rem;
 
 }
 
@@ -252,10 +252,10 @@ header .overlay {
 
 .row {
   height: auto;
-  font-family: 'Varela Round', sans-serif;
   font-size: 80%;
   letter-spacing: 0.15rem;
   border: 0;
+  padding-bottom: 2.5%;
 }
 
 /* --------------------SERVICES-------------------- */
