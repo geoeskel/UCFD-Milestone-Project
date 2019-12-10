@@ -63,7 +63,7 @@ To run locally, you can clone this repository directly into the editor of your c
 ### Content
 Content for 'Aerial panoramas' has been coppied from 'https://globalvision.ch'
 Content for 'Aerial photography' has been coppied from 'https://www.dpreview.com'
-Content for 'Building custom drones' has been coppied fromhttps://www.avetics.com
+Content for 'Building custom drones' has been coppied from 'https://www.avetics.com'
 
 All photos were taken by me
 
