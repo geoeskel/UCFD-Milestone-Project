@@ -358,6 +358,19 @@ header .overlay {
   color: #ffffff;
 }
 
+
+#zoom-in {
+  transition: transform .2s; 
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+#zoom-in:hover {
+  transform: scale(1.1); 
+}
+
+
 /* --------------------FOOTER-------------------- */
 
 footer {
