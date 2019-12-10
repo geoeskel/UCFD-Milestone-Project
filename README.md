@@ -9,9 +9,11 @@ This is my company's website to present to potential clients. It covers a genera
  
 As a client, I want to be able to provide a better/different view of what interests me so I can sell it easier/spot the issue faster/create memories for myself.
 
-Wireframes: 
+## Wireframes
 
-
+1. Plan: https://github.com/geoeskel/UCFD-Milestone-Project/blob/master/wireframes/Plan.jpg?raw=true
+2. Landing page: https://github.com/geoeskel/UCFD-Milestone-Project/blob/master/wireframes/Landing%20page.jpg?raw=true 
+3. Layout: https://github.com/geoeskel/UCFD-Milestone-Project/blob/master/wireframes/Layout.jpg?raw=true
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
